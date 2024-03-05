@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{ My team page }</h1>
+<h1 align="center">{ Interior Consultant }</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-team-page-89w.pages.dev/">
+    <a href="https://interior-consultant-bfm.pages.dev/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/yxsifdev/my-team-page">
+    <a href="https://github.com/yxsifdev/interior-consultant">
       Solution
     </a>
     <span> | </span>
@@ -46,7 +46,7 @@ _On a mobile device:_
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo? [The demo here](https://404-not-found-7l3M.pages.dev/)
+- Where can I see your demo? [The demo here](https://interior-consultant-bfm.pages.dev/)
 - What was your experience? I feel capable of facing more challenges.
 - What have you learned/improved? I have improved in responsive design and animations
 - Your wisdom? :)
